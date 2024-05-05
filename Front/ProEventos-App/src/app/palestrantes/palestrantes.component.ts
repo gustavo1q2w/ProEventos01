@@ -4,8 +4,6 @@ import { NgModule } from '@angular/core';
 
 @Component({
   selector: 'app-palestrantes',
-  standalone: true,
-  imports: [],
   templateUrl: './palestrantes.component.html',
   styleUrl: './palestrantes.component.scss'
 })
